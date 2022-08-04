@@ -113,3 +113,31 @@ pip3 install -r requirements.txt
 clear
 python3 -m pytest
 deactivate
+source venv/bin/activate
+pip3 install -r requirements.txt
+cd weightcalcapp
+pip3 install -r requirements.txt
+python3 app.py
+python3 -m pytest
+python3 app.py
+python3 -m pytest
+python3 -m pytest --cov=application
+cat .ssh/id_rsa.pub
+deactivate
+cat .ssh/id_rsa.pub
+cd ~
+jenkins_scrips
+mv jenkins_scrips install-jenkins.sh
+sudo chmod +x install-jenkins.sh
+./install-jenkins.sh
+source venv/bin/activate
+./install-jenkins.sh
+deactivate
+./install-jenkins.sh
+sudo visudo
+git add jenkins-script.sh
+cd weightcalcapp
+source venv/bin/activate
+python3 app.py
+deactivate
+cd ~

@@ -1,0 +1,38 @@
+[2022-08-04 18:55:57.720] [remoteagent] [info] Extension host agent started.
+[2022-08-04 18:55:58.200] [remoteagent] [info] [127.0.0.1][171bb001][ManagementConnection] New connection established.
+[2022-08-04 18:55:58.244] [remoteagent] [info] [127.0.0.1][d45fd5dd][ExtensionHostConnection] New connection established.
+[2022-08-04 18:55:58.253] [remoteagent] [info] [127.0.0.1][d45fd5dd][ExtensionHostConnection] <11289> Launched Extension Host Process.
+[2022-08-04 18:56:00.067] [remoteagent] [error] ["ErrorNoTelemetry: Could not find pty on pty host","    at d._throwIfNoPty (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:29103)","    at d.updateTitle (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:25349)","    at Object.call (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:16:8293)","    at onPromise (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4880)","    at onRawMessage (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4268)","    at /home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:3556","    at h.invoke (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at z.deliver (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at M.fire (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.W (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:9:20668)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-08-04 18:56:09.550] [remoteagent] [info] [127.0.0.1][d45fd5dd][ExtensionHostConnection] <11289> Extension Host Process exited with code: 0, signal: null.
+[2022-08-04 18:56:09.551] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-08-04 18:56:13.250] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-08-04 18:56:13.250] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-08-04 18:56:13.453] [remoteagent] [info] [127.0.0.1][ddc8755d][ManagementConnection] New connection established.
+[2022-08-04 18:56:13.518] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] New connection established.
+[2022-08-04 18:56:13.526] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] <11439> Launched Extension Host Process.
+[2022-08-04 18:56:14.793] [remoteagent] [info] [127.0.0.1][171bb001][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-08-04 18:56:14.794] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/server/node/server.main.js:145:7933)
+    at process.emit (node:events:390:28)
+[2022-08-04 18:57:47.048] [remoteagent] [info] [127.0.0.1][171bb001][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-08-04 18:57:47.050] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 18:58:25.522] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 18:58:46.272] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 18:59:16.782] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 18:59:37.532] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:00:10.498] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:00:31.498] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:01:03.226] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:01:13.337] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-08-04 19:01:30.089] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:01:51.088] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:02:27.684] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:02:48.686] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:02:48.954] [remoteagent] [info] [127.0.0.1][171bb001][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-08-04 19:04:15.005] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:04:35.524] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:05:51.630] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:06:21.872] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:06:42.623] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:07:13.988] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 19:07:34.736] [remoteagent] [info] [127.0.0.1][fc1cb70f][ExtensionHostConnection] The client has reconnected.
