@@ -1,0 +1,14 @@
+[2022-08-03 10:49:51.498] [exthost] [info] Extension host with pid 17544 started
+[2022-08-03 10:49:51.520] [exthost] [info] Lock '/home/HarryHetheringtons/.vscode-server/data/User/workspaceStorage/edda16ee9bdee894fb1dcbdaee49a987/vscode.lock': Lock acquired.
+[2022-08-03 10:49:51.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-08-03 10:49:51.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-03 10:49:51.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-03 10:49:51.985] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-03 10:49:52.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-03 10:49:52.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-03 10:49:52.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 10:49:52.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 10:49:52.683] [exthost] [info] Eager extensions activated
+[2022-08-03 23:08:25.958] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-08-03 23:08:25.966] [exthost] [info] Lock '/home/HarryHetheringtons/.vscode-server/data/User/workspaceStorage/edda16ee9bdee894fb1dcbdaee49a987/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-08-03 23:08:26.022] [exthost] [info] Extension host with pid 17544 exiting with code 0

@@ -1,0 +1,24 @@
+<body>
+    <h1>Add a new lift:</h1>
+    <p>
+        <div class='form'>
+            <form method='POST' action=''>
+                <!-- hidden_tag() is required for form validation -->
+                {{ form.hidden_tag() }}
+                <!-- Each field displays its label followed by the input field itself -->
+                {{ form.date.label }} {{ form.date }}
+                <br>
+                {{ form.weight.label }} {{ form.weight }}
+                <br>
+                {{ form.reps.label }} {{ form.reps }}
+                <br>
+                {{ form.lift.label}} {{ form.lift }}
+                <br>
+                <!-- form.submit is a button -->
+                {{ form.submit }}
+                <br>
+            {{ message}}    
+            </form>
+        </div>
+    </p>
+</body>

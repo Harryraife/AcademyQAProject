@@ -1,0 +1,45 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:40587 (IPv4)
+Extension host agent listening on 40587
+
+[10:00:47] Extension host agent started.
+[10:00:59] [127.0.0.1][2dca0a88][ManagementConnection] Unknown reconnection token (never seen).
+[10:00:59] [127.0.0.1][ddcb70e5][ExtensionHostConnection] Unknown reconnection token (never seen).
+[10:01:58] [127.0.0.1][cea07326][ManagementConnection] New connection established.
+[10:01:59] [127.0.0.1][ce365784][ExtensionHostConnection] New connection established.
+[10:01:59] [127.0.0.1][ce365784][ExtensionHostConnection] <25359> Launched Extension Host Process.
+rejected promise not handled within 1 second: ErrorNoTelemetry: Could not find pty on pty host
+stack trace: ErrorNoTelemetry: Could not find pty on pty host,    at d._throwIfNoPty (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:29103),    at d.updateTitle (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:25349),    at Object.call (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:16:8293),    at onPromise (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4880),    at onRawMessage (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4268),    at /home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:3556,    at h.invoke (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:145),    at z.deliver (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:2275),    at M.fire (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:1853),    at process.W (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:9:20668),    at process.emit (node:events:390:28),    at emit (node:internal/child_process:917:12),    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+[10:02:02] [ErrorNoTelemetry: Could not find pty on pty host,    at d._throwIfNoPty (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:29103),    at d.updateTitle (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:25349),    at Object.call (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:16:8293),    at onPromise (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4880),    at onRawMessage (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4268),    at /home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:3556,    at h.invoke (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:145),    at z.deliver (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:2275),    at M.fire (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:1853),    at process.W (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:9:20668),    at process.emit (node:events:390:28),    at emit (node:internal/child_process:917:12),    at processTicksAndRejections (node:internal/process/task_queues:84:21)]
+[15:10:38] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:10:59] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:11:40] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:12:43] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:13:32] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:13:52] No ptyHost heartbeat after 6 seconds
+[15:13:58] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:14:27] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:14:56] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:15:25] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:15:52] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:16:46] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:17:36] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:18:06] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:18:29] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:19:01] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:19:23] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:20:11] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:20:43] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:21:04] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:21:14] No ptyHost heartbeat after 6 seconds
+[15:21:34] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:22:06] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:22:27] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:22:57] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[15:23:18] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.

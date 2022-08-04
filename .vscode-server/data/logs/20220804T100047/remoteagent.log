@@ -1,0 +1,34 @@
+[2022-08-04 10:00:47.739] [remoteagent] [info] Extension host agent started.
+[2022-08-04 10:00:59.418] [remoteagent] [error] [127.0.0.1][2dca0a88][ManagementConnection] Unknown reconnection token (never seen).
+[2022-08-04 10:00:59.423] [remoteagent] [error] [127.0.0.1][ddcb70e5][ExtensionHostConnection] Unknown reconnection token (never seen).
+[2022-08-04 10:01:58.770] [remoteagent] [info] [127.0.0.1][cea07326][ManagementConnection] New connection established.
+[2022-08-04 10:01:59.946] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] New connection established.
+[2022-08-04 10:01:59.960] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] <25359> Launched Extension Host Process.
+[2022-08-04 10:02:02.797] [remoteagent] [error] ["ErrorNoTelemetry: Could not find pty on pty host","    at d._throwIfNoPty (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:29103)","    at d.updateTitle (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:24:25349)","    at Object.call (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:16:8293)","    at onPromise (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4880)","    at onRawMessage (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:4268)","    at /home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:15:3556","    at h.invoke (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at z.deliver (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at M.fire (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.W (/home/HarryHetheringtons/.vscode-server/bin/3b889b090b5ad5793f524b5d1d39fda662b96a2a/out/vs/platform/terminal/node/ptyHostMain.js:9:20668)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-08-04 15:10:38.567] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:10:59.557] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:11:40.577] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:12:43.596] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:13:32.862] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:13:55.614] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-04 15:13:58.363] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:14:27.376] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:14:56.117] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:15:25.635] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:15:52.627] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:16:46.407] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:17:36.421] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:18:06.711] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:18:29.930] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:19:01.950] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:19:23.546] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:20:11.726] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:20:43.736] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:21:04.483] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:21:21.746] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-04 15:21:34.239] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:22:06.504] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:22:27.231] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:22:57.035] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:23:18.036] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.
+[2022-08-04 15:23:43.784] [remoteagent] [info] [127.0.0.1][ce365784][ExtensionHostConnection] The client has reconnected.

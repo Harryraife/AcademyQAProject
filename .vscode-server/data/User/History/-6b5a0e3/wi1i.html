@@ -1,0 +1,11 @@
+{% extends 'home.html' %}
+{% block body %}
+<h2>{{ entity }} List</h2>
+{% for Log in all_lifts %}
+{{ log.__str__() }}  
+{% if entity == 'exercise' %}
+Assignee: {{ log.id.__int__() }}
+{% endif %}
+<br>
+{% endfor %}
+{% endblock body %}
